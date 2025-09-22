@@ -46,8 +46,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Always%20Coding-FF6347?style=for-the-badge&logo=visualstudiocode&logoColor=32CD32" />
-  <img src="https://img.io/badge/Weekly%20Commits-00BFFF?style=for-the-badge&logo=git&logoColor=FF6347" />
-  <img src="https://img.io/badge/Open%20Source%20Active-32CD32?style=for-the-badge&logo=github&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/Weekly%20Commits-00BFFF?style=for-the-badge&logo=git&logoColor=FF6347" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Active-32CD32?style=for-the-badge&logo=github&logoColor=00BFFF" />
 </p>
 
 <p align="center">
